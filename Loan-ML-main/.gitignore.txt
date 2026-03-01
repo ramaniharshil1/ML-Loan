@@ -1,0 +1,57 @@
+# ----------------------
+# Python
+# ----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.pkl
+*.part*
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# SQLite
+*.sqlite3
+
+# ----------------------
+# Machine Learning
+# ----------------------
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Dataset files (optional - remove if you want to upload)
+*.csv
+*.xlsx
+
+# ----------------------
+# Node / React
+# ----------------------
+node_modules/
+build/
+dist/
+
+# ----------------------
+# VS Code
+# ----------------------
+.vscode/
+
+# ----------------------
+# OS Files
+# ----------------------
+.DS_Store
+Thumbs.db
